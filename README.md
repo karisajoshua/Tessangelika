@@ -41,12 +41,12 @@ Tools and platforms below are grouped by purpose. This is a **learning technolog
 
 **eLearning authoring and multimedia**
 
-![Articulate Storyline](https://img.shields.io/badge/Articulate-Storyline-EEEAF7?style=flat-square&labelColor=EEEAF7&color=EEEAF7)
-![Articulate Rise](https://img.shields.io/badge/Articulate-Rise-EEEAF7?style=flat-square)
-![Articulate 360](https://img.shields.io/badge/Articulate-360-EEEAF7?style=flat-square)
-![Vyond](https://img.shields.io/badge/Vyond-Animation-F0E9DF?style=flat-square)
-![Camtasia](https://img.shields.io/badge/Camtasia-Video-F0E9DF?style=flat-square)
-![Canva](https://img.shields.io/badge/Canva-Design-F0E9DF?style=flat-square)
+![Articulate Storyline](https://img.shields.io/badge/Articulate-Storyline-D8B4B8?style=flat-square&labelColor=D8B4B8&color=D8B4B8)
+![Articulate Rise](https://img.shields.io/badge/Articulate-Rise-D8B4B8?style=flat-square)
+![Articulate 360](https://img.shields.io/badge/Articulate-360-D8B4B8?style=flat-square)
+![Vyond](https://img.shields.io/badge/Vyond-Animation-E4C6C9?style=flat-square)
+![Camtasia](https://img.shields.io/badge/Camtasia-Video-E4C6C9?style=flat-square)
+![Canva](https://img.shields.io/badge/Canva-Design-E4C6C9?style=flat-square)
 
 **Learning management systems**
 
@@ -61,43 +61,43 @@ Claude · ChatGPT · Gemini · Synthesia · HeyGen · ElevenLabs · Noiz · Mind
 
 **Standards and delivery**
 
-![SCORM](https://img.shields.io/badge/SCORM-Packaging-EDF0F3?style=flat-square)
-![xAPI](https://img.shields.io/badge/xAPI-Learning%20Data-EDF0F3?style=flat-square)
-![LMS QA](https://img.shields.io/badge/LMS-Quality%20Assurance-EDF0F3?style=flat-square)
-![Learning Analytics](https://img.shields.io/badge/Learning-Analytics-EDF0F3?style=flat-square)
+![SCORM](https://img.shields.io/badge/SCORM-Packaging-D8B4B8?style=flat-square)
+![xAPI](https://img.shields.io/badge/xAPI-Learning%20Data-D8B4B8?style=flat-square)
+![LMS QA](https://img.shields.io/badge/LMS-Quality%20Assurance-D8B4B8?style=flat-square)
+![Learning Analytics](https://img.shields.io/badge/Learning-Analytics-D8B4B8?style=flat-square)
 
 **Additional learning platforms**
 
-![Workday Learning](https://img.shields.io/badge/Workday-Learning-EDF0F3?style=flat-square)
-![Learning Experience Platforms](https://img.shields.io/badge/Learning%20Experience-Platforms-EDF0F3?style=flat-square)
+![Workday Learning](https://img.shields.io/badge/Workday-Learning-D8B4B8?style=flat-square)
+![Learning Experience Platforms](https://img.shields.io/badge/Learning%20Experience-Platforms-D8B4B8?style=flat-square)
 
 **Cloud, security and AI credentials**
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-EDF0F3?style=flat-square)
-![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-EDF0F3?style=flat-square)
-![CCSK](https://img.shields.io/badge/CCSK-Foundation%20Training-EDF0F3?style=flat-square)
-![ITIL 4](https://img.shields.io/badge/ITIL-4%20Foundation-EDF0F3?style=flat-square)
-![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-EDF0F3?style=flat-square)
-![CyberGirls Cloud Security](https://img.shields.io/badge/CyberGirls-Cloud%20Security%20Grade%20A-EDF0F3?style=flat-square)
-![Future of AI](https://img.shields.io/badge/BlueDot%20Impact-Future%20of%20AI-EDF0F3?style=flat-square)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-D8B4B8?style=flat-square)
+![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-D8B4B8?style=flat-square)
+![CCSK](https://img.shields.io/badge/CCSK-Foundation%20Training-D8B4B8?style=flat-square)
+![ITIL 4](https://img.shields.io/badge/ITIL-4%20Foundation-D8B4B8?style=flat-square)
+![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-D8B4B8?style=flat-square)
+![CyberGirls Cloud Security](https://img.shields.io/badge/CyberGirls-Cloud%20Security%20Grade%20A-D8B4B8?style=flat-square)
+![Future of AI](https://img.shields.io/badge/BlueDot%20Impact-Future%20of%20AI-D8B4B8?style=flat-square)
 
 <sub>AWS CLF-C02: 804/1000 · CyberGirls Cloud Security Fellowship: Grade A, 76.92/100 · Future of AI: 2026</sub>
 
 **Cybersecurity tools and methods**
 
-![MITRE ATT&CK Navigator](https://img.shields.io/badge/MITRE-ATT%26CK%20Navigator-EDF0F3?style=flat-square)
-![AttackIQ](https://img.shields.io/badge/AttackIQ-Security%20Validation-EDF0F3?style=flat-square)
-![Breach and Attack Simulation](https://img.shields.io/badge/Breach%20%26%20Attack-Simulation-EDF0F3?style=flat-square)
-![Purple Teaming](https://img.shields.io/badge/Purple-Teaming-EDF0F3?style=flat-square)
-![Attack Flows](https://img.shields.io/badge/Attack-Flows-EDF0F3?style=flat-square)
-![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Security%20Validation-EDF0F3?style=flat-square)
-![Identity and Access Management](https://img.shields.io/badge/Identity%20%26%20Access-Management-EDF0F3?style=flat-square)
+![MITRE ATT&CK Navigator](https://img.shields.io/badge/MITRE-ATT%26CK%20Navigator-D8B4B8?style=flat-square)
+![AttackIQ](https://img.shields.io/badge/AttackIQ-Security%20Validation-D8B4B8?style=flat-square)
+![Breach and Attack Simulation](https://img.shields.io/badge/Breach%20%26%20Attack-Simulation-D8B4B8?style=flat-square)
+![Purple Teaming](https://img.shields.io/badge/Purple-Teaming-D8B4B8?style=flat-square)
+![Attack Flows](https://img.shields.io/badge/Attack-Flows-D8B4B8?style=flat-square)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Security%20Validation-D8B4B8?style=flat-square)
+![Identity and Access Management](https://img.shields.io/badge/Identity%20%26%20Access-Management-D8B4B8?style=flat-square)
 
 **Cybersecurity education**
 
-![Threat Awareness](https://img.shields.io/badge/Threat-Awareness-EDF0F3?style=flat-square)
-![Cloud Security](https://img.shields.io/badge/Cloud-Security-EDF0F3?style=flat-square)
-![Security-focused Learning Design](https://img.shields.io/badge/Security--focused-Learning%20Design-EDF0F3?style=flat-square)
+![Threat Awareness](https://img.shields.io/badge/Threat-Awareness-D8B4B8?style=flat-square)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-D8B4B8?style=flat-square)
+![Security-focused Learning Design](https://img.shields.io/badge/Security--focused-Learning%20Design-D8B4B8?style=flat-square)
 
 ## My approach
 
